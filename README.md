@@ -47,7 +47,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="./BestPracticesChecklist.md">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F%7BAOSSIE-Org%7D%2F%7BPythonScripts%7D%2Fmain%2Fchecklist-status.json&logo=openssf" alt="Best Practices"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAOSSIE-Org%2FPythonScripts%2Fmain%2Fchecklist-status.json&query=%24.percent&label=Best%20Practices&suffix=%25&logo=openssf&color=brightgreen" alt="Best Practices"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/gitleaks/gitleaks">
