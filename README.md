@@ -115,4 +115,4 @@ Thanks a lot for spending your time helping TODO grow.
 
 [![Contributors](https://contrib.rocks/image?repo=AOSSIE-Org/PythonScripts)](https://github.com/AOSSIE-Org/PythonScripts/graphs/contributors)
 
-© 2025 AOSSIE 
+© 2026 AOSSIE 
